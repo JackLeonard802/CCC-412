@@ -1,0 +1,13 @@
+ListName,ListType,isArchived,ListItemName,isCompleted
+
+,SHOP,false,cheese salt pepper ketchup,false
+,SHOP,false,egg,false
+,SHOP,false,bacon,false
+,SHOP,false,orange juice,false
+,SHOP,false,Bagels,false
+,SHOP,false,Frozen,false
+,SHOP,false,cheese,false
+,SHOP,false,deli meat,false
+,SHOP,false,bread,false
+,SHOP,false,milk,false
+,SHOP,false,Orange pepper,true

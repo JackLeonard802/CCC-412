@@ -1,0 +1,3 @@
+﻿Instruction Name,Instruction Status,Policy Type,Policy Content,Last Modified Time
+Alexa App Explicit Language Filter,inactive,explicitlanguagefilter,"{state:INACTIVE,recurrenceSchedules:[{time:[0,0],dayTimeDuration:86400,recurrenceRule:{freq:DAILY}}]}",2020-11-17T20:05:17.897Z[UTC]
+allow voice UI to disable explicit language filter,inactive,explicitlanguagefilter.settings.vui.allowdisable,"{state:INACTIVE,recurrenceSchedules:[{time:[0,0],dayTimeDuration:86400,recurrenceRule:{freq:DAILY}}]}",2020-11-17T20:05:17.918Z[UTC]

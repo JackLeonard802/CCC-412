@@ -1,0 +1,692 @@
+customer_id,event_name,event_timestamp,device_platform_name,device_make,device_model,description
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.ConnectToEchoView.presentation.mobilytics-interaction,2023-01-02 05:23:31.169,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.configuredNetworkSelected.mobilytics-interaction,2023-01-02 05:23:38.396,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SoftAPSelectWifiNetworkView.presentation.mobilytics-interaction,2023-01-02 05:23:38.401,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SoftAPConnectToNetworkView.presentation.mobilytics-interaction,2023-01-02 05:23:43.383,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,view,2023-01-16 15:29:20.433,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,Enter,2023-01-16 15:29:20.628,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-01-16 15:29:21.603,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-01-16 15:29:21.603,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-01-16 15:29:23.439,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,Exit,2023-01-16 15:29:23.445,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-01-16 15:29:23.552,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-01-16 15:29:23.552,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-01-16 15:29:23.589,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-01-16 15:29:23.59,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-01-16 15:29:23.591,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-01-16 15:29:23.759,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-01-16 15:29:23.76,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-01-16 15:29:23.883,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-01-16 15:29:25.364,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-01-16 15:29:26.485,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-01-16 15:29:26.576,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.continue.mobilytics-interaction,2023-01-16 15:29:40.885,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-01-16 15:29:40.893,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.IosBluetoothAppPermissionsView.presentation.mobilytics-interaction,2023-01-16 15:29:41.497,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.TurnOnBluetoothView.presentation.mobilytics-interaction,2023-01-16 15:29:42.098,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.orangeLight.continue.mobilytics-interaction,2023-01-16 15:29:43.819,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.OrangeLightInstructionsEchoDefaultView.presentation.mobilytics-interaction,2023-01-16 15:29:43.824,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectDevice.deviceSelected.mobilytics-interaction,2023-01-16 15:29:45.484,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectDeviceView.presentation.mobilytics-interaction,2023-01-16 15:29:45.495,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectWifiNetwork.savedNetwork.mobilytics-interaction,2023-01-16 15:30:02.285,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectWifiNetworkView.presentation.mobilytics-interaction,2023-01-16 15:30:02.294,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.WifiPreparingYourEchoView.presentation.mobilytics-interaction,2023-01-16 15:30:06.98,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.DynamicFirstAidView.presentation.mobilytics-interaction,2023-01-16 15:30:17.642,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.enterWifiCredentials.save=true.mobilytics-interaction,2023-01-16 15:30:28.837,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.enterWifiCredentials.continue.mobilytics-interaction,2023-01-16 15:30:28.837,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.EnterWifiCredentialsView.presentation.mobilytics-interaction,2023-01-16 15:30:28.848,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.WifiPreparingYourEchoView.presentation.mobilytics-interaction,2023-01-16 15:30:35.313,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.UgsErrorHandlerView.presentation.mobilytics-interaction,2023-01-16 15:30:35.377,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.ManualSetupView.presentation.mobilytics-interaction,2023-01-16 15:30:46.014,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.LocalNetworkPermissionView.presentation.mobilytics-interaction,2023-01-16 15:30:48.214,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.checkSetup.continue.mobilytics-interaction,2023-01-16 15:31:00.675,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CheckSetupInstructionsEchoSmartSpeakersView.presentation.mobilytics-interaction,2023-01-16 15:31:00.682,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.AutoConnectToEchoView.presentation.mobilytics-interaction,2023-01-16 15:31:28.789,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.configuredNetworkSelected.mobilytics-interaction,2023-01-16 15:31:35.463,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SoftAPSelectWifiNetworkView.presentation.mobilytics-interaction,2023-01-16 15:31:35.467,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SoftAPConnectToNetworkView.presentation.mobilytics-interaction,2023-01-16 15:31:39.237,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,view,2023-01-22 08:09:58.213,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,Enter,2023-01-22 08:09:58.445,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-01-22 08:09:59.476,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-01-22 08:09:59.476,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-01-22 08:10:01.362,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-01-22 08:10:01.362,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-01-22 08:10:01.363,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.smart-home.deviceHealth.noticeBanner.view.mobilytics-interaction,2023-01-22 08:10:01.397,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-01-22 08:10:04.616,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-01-22 08:10:04.72,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-01-22 08:10:04.72,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-01-22 08:10:04.739,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-01-22 08:10:04.74,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-01-22 08:10:04.742,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-01-22 08:10:04.906,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-01-22 08:10:04.906,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-01-22 08:10:05.008,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.click.routeToAppliancePage.mobilytics-interaction,2023-01-22 08:10:10.992,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-01-22 08:10:11.077,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-01-22 08:10:11.241,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-01-22 08:10:11.242,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-01-22 08:10:11.383,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-01-22 08:10:14.307,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-01-22 08:10:14.308,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-01-22 08:10:14.308,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-01-22 08:10:14.308,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-01-22 08:10:14.33,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-01-22 08:10:14.332,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-01-22 08:10:14.351,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-01-22 08:10:14.497,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.categoryTileClick_LIGHT.mobilytics-interaction,2023-01-22 08:10:15.66,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_LIGHT.mobilytics-interaction,2023-01-22 08:10:15.66,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.deviceHealth.noticeBanner.view.mobilytics-interaction,2023-01-22 08:10:15.748,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceCardClick.mobilytics-interaction,2023-01-22 08:10:18.124,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-01-22 08:10:18.129,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-01-22 08:10:18.215,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-01-22 08:10:18.234,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-01-22 08:10:18.365,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-01-22 08:10:18.366,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-01-22 08:10:20.058,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-01-22 08:10:20.058,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.click.deviceTileOnPress.mobilytics-interaction,2023-01-22 08:10:23.158,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.cancelClick.mobilytics-interaction,2023-01-22 08:11:39.25,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-01-22 08:11:39.332,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-01-22 08:11:39.332,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,Enter,2023-02-01 17:27:05.514,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 17:27:06.844,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 17:27:06.844,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 17:27:10.88,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,CardClick,2023-02-01 17:27:10.88,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,Exit,2023-02-01 17:27:10.881,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,CardView,2023-02-01 17:27:10.881,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardView,2023-02-01 17:27:10.881,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 17:28:20.344,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 17:28:20.445,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 17:28:20.445,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 17:28:20.463,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 17:28:20.465,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 17:28:20.467,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-02-01 17:28:20.773,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 17:28:20.841,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 17:28:20.842,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 17:28:21.408,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 17:28:22.553,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 17:28:22.649,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.continue.mobilytics-interaction,2023-02-01 17:28:57.072,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:28:57.079,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.IosBluetoothAppPermissionsView.presentation.mobilytics-interaction,2023-02-01 17:28:57.685,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.TurnOnBluetoothView.presentation.mobilytics-interaction,2023-02-01 17:29:00.837,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.orangeLight.continue.mobilytics-interaction,2023-02-01 17:29:03.738,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.OrangeLightInstructionsEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:29:03.742,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectDevice.deviceSelected.mobilytics-interaction,2023-02-01 17:29:06.719,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectDeviceView.presentation.mobilytics-interaction,2023-02-01 17:29:06.73,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectWifiNetwork.rescanNetworks.mobilytics-interaction,2023-02-01 17:29:36.912,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectWifiNetworkView.presentation.mobilytics-interaction,2023-02-01 17:30:10.606,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 17:30:10.70,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.devices-channel.wifiPageClick.mobilytics-interaction,2023-02-01 17:30:15.18,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.cancel.mobilytics-interaction,2023-02-01 17:30:17.76,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:30:17.766,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 17:30:17.853,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.devices-channel.wifiPageClick.mobilytics-interaction,2023-02-01 17:30:20.346,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.cancel.mobilytics-interaction,2023-02-01 17:30:21.901,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:30:21.907,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 17:30:21.986,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.devices-channel.wifiPageClick.mobilytics-interaction,2023-02-01 17:30:23.097,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.cancel.mobilytics-interaction,2023-02-01 17:30:24.297,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:30:24.302,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 17:30:24.386,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,MENU_MORE,2023-02-01 17:30:25.842,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,MORE_MENU_V2,2023-02-01 17:30:25.918,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,TMENU_SETTINGS,2023-02-01 17:30:27.786,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.settings.menu.mobilytics-interaction,2023-02-01 17:30:27.876,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.settings.settings_menu_device_settings.mobilytics-interaction,2023-02-01 17:30:31.244,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deviceImageListItemClick.mobilytics-interaction,2023-02-01 17:30:33.511,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 17:30:33.511,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 17:30:33.589,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.deviceSingle.mobilytics-interaction,2023-02-01 17:30:34.639,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.wifiPageClick.mobilytics-interaction,2023-02-01 17:30:37.939,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.cancel.mobilytics-interaction,2023-02-01 17:30:40.034,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:30:40.039,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 17:30:40.128,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 17:30:41.981,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 17:30:42.067,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 17:30:42.068,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 17:30:42.068,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 17:30:42.068,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 17:30:42.09,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 17:30:42.091,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 17:30:42.094,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 17:30:42.271,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,MENU_MORE,2023-02-01 17:30:42.394,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,MORE_MENU_V2,2023-02-01 17:30:42.421,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,TMENU_SETTINGS,2023-02-01 17:30:43.853,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.settings.menu.mobilytics-interaction,2023-02-01 17:30:43.925,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.settings.settings_menu_device_settings.mobilytics-interaction,2023-02-01 17:30:52.433,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.settings.menu.mobilytics-interaction,2023-02-01 17:31:20.465,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 17:31:20.979,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 17:31:21.077,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 17:31:21.077,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 17:31:21.077,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 17:31:21.096,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 17:31:21.098,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 17:31:21.10,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 17:31:21.248,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 17:31:22.321,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 17:31:22.985,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 17:31:23.06,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.deviceSingle.mobilytics-interaction,2023-02-01 17:31:24.029,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.aboutPageClick.mobilytics-interaction,2023-02-01 17:31:27.346,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.devices-channel.tupleCreatePageOpen.mobilytics-interaction,2023-02-01 17:31:31.995,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 17:31:33.107,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 17:31:33.107,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 17:31:33.107,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 17:31:33.125,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 17:31:33.126,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 17:31:33.128,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 17:31:33.282,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 17:31:34.554,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 17:31:36.506,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 17:31:36.581,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.deviceSingle.mobilytics-interaction,2023-02-01 17:31:45.274,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 17:31:46.614,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.continue.mobilytics-interaction,2023-02-01 17:31:50.002,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:31:50.01,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.IosBluetoothAppPermissionsView.presentation.mobilytics-interaction,2023-02-01 17:31:50.632,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.TurnOnBluetoothView.presentation.mobilytics-interaction,2023-02-01 17:31:51.231,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.orangeLight.continue.mobilytics-interaction,2023-02-01 17:32:01.818,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.OrangeLightInstructionsEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 17:32:01.823,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectDevice.deviceSelected.mobilytics-interaction,2023-02-01 17:32:04.235,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectDeviceView.presentation.mobilytics-interaction,2023-02-01 17:32:04.245,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectWifiNetworkView.presentation.mobilytics-interaction,2023-02-01 17:32:25.177,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 17:32:25.262,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,Enter,2023-02-01 20:09:00.003,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:09:00.962,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:09:00.962,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:09:02.215,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:09:02.215,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-01 20:09:02.216,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 20:09:04.031,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 20:09:04.132,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.continue.mobilytics-interaction,2023-02-01 20:09:18.787,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 20:09:18.795,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.IosBluetoothAppPermissionsView.presentation.mobilytics-interaction,2023-02-01 20:09:19.415,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.TurnOnBluetoothView.presentation.mobilytics-interaction,2023-02-01 20:09:20.015,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.orangeLight.continue.mobilytics-interaction,2023-02-01 20:09:22.585,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.OrangeLightInstructionsEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 20:09:22.59,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectDevice.deviceSelected.mobilytics-interaction,2023-02-01 20:09:37.084,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectDeviceView.presentation.mobilytics-interaction,2023-02-01 20:09:37.093,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectWifiNetwork.savedNetwork.mobilytics-interaction,2023-02-01 20:09:54.069,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectWifiNetworkView.presentation.mobilytics-interaction,2023-02-01 20:09:54.086,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.WifiPreparingYourEchoView.presentation.mobilytics-interaction,2023-02-01 20:09:59.026,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.DynamicFirstAidView.presentation.mobilytics-interaction,2023-02-01 20:10:37.587,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.enterWifiCredentials.continue.mobilytics-interaction,2023-02-01 20:10:48.424,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.enterWifiCredentials.save=false.mobilytics-interaction,2023-02-01 20:10:48.424,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.EnterWifiCredentialsView.presentation.mobilytics-interaction,2023-02-01 20:10:48.434,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.WifiPreparingYourEchoView.presentation.mobilytics-interaction,2023-02-01 20:10:55.66,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.UgsErrorHandlerView.presentation.mobilytics-interaction,2023-02-01 20:10:55.728,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.ManualSetupView.presentation.mobilytics-interaction,2023-02-01 20:11:14.333,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.LocalNetworkPermissionView.presentation.mobilytics-interaction,2023-02-01 20:11:15.767,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.checkSetup.continue.mobilytics-interaction,2023-02-01 20:11:17.18,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CheckSetupInstructionsEchoSmartSpeakersView.presentation.mobilytics-interaction,2023-02-01 20:11:17.188,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.AutoConnectToEchoView.presentation.mobilytics-interaction,2023-02-01 20:11:33.363,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.configuredNetworkSelected.mobilytics-interaction,2023-02-01 20:11:40.687,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SoftAPSelectWifiNetworkView.presentation.mobilytics-interaction,2023-02-01 20:11:40.692,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SoftAPConnectToNetworkView.presentation.mobilytics-interaction,2023-02-01 20:11:44.717,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,Enter,2023-02-01 20:14:47.434,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:14:52.114,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:14:52.114,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,MENU_NOWPLAYING,2023-02-01 20:14:52.918,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,Exit,2023-02-01 20:14:52.942,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.mediaCarouselViewed.mobilytics-interaction,2023-02-01 20:14:53.561,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.mediaCarouselViewed.mobilytics-interaction,2023-02-01 20:14:53.682,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.audibleCarouselViewed.mobilytics-interaction,2023-02-01 20:14:53.702,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.audibleCarouselViewed.mobilytics-interaction,2023-02-01 20:14:53.702,iOS,Apple,"iPhone14,2",Alexa Mobile Entertainment
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.mediaCarouselViewed.mobilytics-interaction,2023-02-01 20:14:53.769,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.musicHomeViewed.mobilytics-interaction,2023-02-01 20:14:54.007,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.musicHomeViewed.mobilytics-interaction,2023-02-01 20:14:54.007,iOS,Apple,"iPhone14,2",Alexa Mobile Entertainment
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.mediaCarouselViewed.mobilytics-interaction,2023-02-01 20:14:54.026,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.musicHomeViewed.mobilytics-interaction,2023-02-01 20:14:54.107,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.musicHomeViewed.mobilytics-interaction,2023-02-01 20:14:54.107,iOS,Apple,"iPhone14,2",Alexa Mobile Entertainment
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.mediaCarouselViewed.mobilytics-interaction,2023-02-01 20:14:54.121,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.audibleCarouselViewed.mobilytics-interaction,2023-02-01 20:14:54.913,iOS,Apple,"iPhone14,2",Alexa Mobile Entertainment
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.audibleCarouselViewed.mobilytics-interaction,2023-02-01 20:14:54.913,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.mediaCarouselViewed.mobilytics-interaction,2023-02-01 20:14:55.408,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:15:21.117,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.musicHomeViewed.mobilytics-interaction,2023-02-01 20:15:21.164,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.channels-entertainment.musicHomeViewed.mobilytics-interaction,2023-02-01 20:15:21.164,iOS,Apple,"iPhone14,2",Alexa Mobile Entertainment
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:15:21.238,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:15:21.239,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:15:21.279,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:15:21.28,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:15:21.281,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-02-01 20:15:21.453,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:15:21.531,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:15:21.531,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 20:15:22.036,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 20:15:22.785,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 20:15:22.877,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.quickActions_entering_page.mobilytics-interaction,2023-02-01 20:15:23.145,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.BluetoothCard_entering_page.mobilytics-interaction,2023-02-01 20:15:23.15,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.household.withAlarmData.mobilytics-interaction,2023-02-01 20:15:23.151,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.StatusCard_entering_page.mobilytics-interaction,2023-02-01 20:15:23.162,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.RatsCard_entering_page.mobilytics-interaction,2023-02-01 20:15:26.424,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.status_card.mobilytics-interaction,2023-02-01 20:15:31.341,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.aboutPageClick.mobilytics-interaction,2023-02-01 20:15:38.075,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 20:16:53.777,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.quickActions_entering_page.mobilytics-interaction,2023-02-01 20:16:53.778,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.BluetoothCard_entering_page.mobilytics-interaction,2023-02-01 20:16:53.782,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.household.withAlarmData.mobilytics-interaction,2023-02-01 20:16:53.787,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.RatsCard_entering_page.mobilytics-interaction,2023-02-01 20:16:53.788,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.StatusCard_entering_page.mobilytics-interaction,2023-02-01 20:16:53.802,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:16:55.175,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:16:55.269,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:16:55.269,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:16:55.269,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:16:55.293,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:16:55.294,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:16:55.296,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:16:55.468,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 20:16:56.284,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 20:16:57.183,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 20:16:57.26,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.quickActions_entering_page.mobilytics-interaction,2023-02-01 20:16:57.26,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.BluetoothCard_entering_page.mobilytics-interaction,2023-02-01 20:16:57.265,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.RatsCard_entering_page.mobilytics-interaction,2023-02-01 20:16:57.265,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.household.withAlarmData.mobilytics-interaction,2023-02-01 20:16:57.265,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.StatusCard_entering_page.mobilytics-interaction,2023-02-01 20:16:57.271,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.deviceSingle.mobilytics-interaction,2023-02-01 20:16:58.226,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.wifiPageClick.mobilytics-interaction,2023-02-01 20:17:10.446,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.placeIntoPairing.cancel.mobilytics-interaction,2023-02-01 20:17:13.028,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PlaceIntoPairingModeEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 20:17:13.033,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 20:17:13.121,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:18:03.296,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:18:03.36,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:18:03.364,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:18:03.364,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:18:03.418,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:18:03.419,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:18:03.419,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:18:03.624,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectDeviceFromAutoDiscoveryView.presentation.mobilytics-interaction,2023-02-01 20:18:10.185,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectWifiNetwork.savedNetwork.mobilytics-interaction,2023-02-01 20:18:28.803,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectWifiNetworkView.presentation.mobilytics-interaction,2023-02-01 20:18:28.856,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.WifiPreparingYourEchoView.presentation.mobilytics-interaction,2023-02-01 20:18:33.279,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectWifiNetwork.savedNetwork.mobilytics-interaction,2023-02-01 20:18:35.639,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectWifiNetworkView.presentation.mobilytics-interaction,2023-02-01 20:18:35.651,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.WifiPreparingYourEchoView.presentation.mobilytics-interaction,2023-02-01 20:21:12.938,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.DynamicFirstAidView.presentation.mobilytics-interaction,2023-02-01 20:21:14.109,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.enterWifiCredentials.continue.mobilytics-interaction,2023-02-01 20:21:21.146,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.enterWifiCredentials.save=true.mobilytics-interaction,2023-02-01 20:21:21.146,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.EnterWifiCredentialsView.presentation.mobilytics-interaction,2023-02-01 20:21:21.155,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,Enter,2023-02-01 20:21:34.871,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:21:35.524,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:21:35.524,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:21:39.377,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,CardView,2023-02-01 20:21:39.412,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardView,2023-02-01 20:21:39.412,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-01 20:21:39.412,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:21:39.508,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:21:39.509,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:21:39.559,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:21:39.56,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:21:39.561,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:21:39.694,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:21:39.694,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-02-01 20:21:39.754,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 20:21:40.757,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:21:43.508,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:21:43.509,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:21:43.509,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:21:43.509,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:21:43.531,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:21:43.533,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:21:43.534,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:21:43.676,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addButtonClick.mobilytics-interaction,2023-02-01 20:21:50.993,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addDeviceClick.mobilytics-interaction,2023-02-01 20:21:53.189,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.deviceDisambiguation.deviceSelected.ECHO_SMART_SPEAKERS.mobilytics-interaction,2023-02-01 20:22:02.346,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.DeviceDisambiguationView.presentation.mobilytics-interaction,2023-02-01 20:22:02.354,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.IosBluetoothAppPermissionsView.presentation.mobilytics-interaction,2023-02-01 20:22:02.973,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.TurnOnBluetoothView.presentation.mobilytics-interaction,2023-02-01 20:22:03.574,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.orangeLight.continue.mobilytics-interaction,2023-02-01 20:22:12.745,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.OrangeLightInstructionsEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 20:22:12.75,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,Enter,2023-02-01 20:22:35.138,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:22:35.943,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:22:35.943,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:22:38.018,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,CardView,2023-02-01 20:22:38.034,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,Exit,2023-02-01 20:22:38.034,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,CardView,2023-02-01 20:22:38.034,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:22:38.153,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:22:38.153,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:22:38.206,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:22:38.207,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:22:38.207,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-02-01 20:22:38.391,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:22:38.40,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:22:38.40,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 20:22:39.979,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.efdIngress.mobilytics-interaction,2023-02-01 20:22:40.765,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 20:22:40.86,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.quickActions_entering_page.mobilytics-interaction,2023-02-01 20:22:41.136,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.BluetoothCard_entering_page.mobilytics-interaction,2023-02-01 20:22:41.141,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.household.withAlarmData.mobilytics-interaction,2023-02-01 20:22:41.141,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.StatusCard_entering_page.mobilytics-interaction,2023-02-01 20:22:41.153,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.deviceSingle.mobilytics-interaction,2023-02-01 20:22:42.246,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deregister_device_open.mobilytics-interaction,2023-02-01 20:22:46.837,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deregisterDevicePrompt.mobilytics-interaction,2023-02-01 20:22:46.837,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deregister_device.mobilytics-interaction,2023-02-01 20:22:48.491,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deregisterDevice.mobilytics-interaction,2023-02-01 20:22:48.491,iOS,Apple,"iPhone14,2",Alexa App Accessories General
+A1IWF85Y76DUZP,react.lmnt.device-single-control.quickActions_entering_page.mobilytics-interaction,2023-02-01 20:22:49.066,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.DeviceSingleControl_entering_page.mobilytics-interaction,2023-02-01 20:22:49.066,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.household.withAlarmData.mobilytics-interaction,2023-02-01 20:22:49.072,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.BluetoothCard_entering_page.mobilytics-interaction,2023-02-01 20:22:49.072,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-single-control.StatusCard_entering_page.mobilytics-interaction,2023-02-01 20:22:49.085,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:22:53.048,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:22:53.145,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:22:53.146,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:22:53.146,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:22:53.15,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:22:53.169,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:22:53.17,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:22:53.171,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:22:53.405,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,Enter,2023-02-01 20:23:48.058,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:23:48.671,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:23:48.671,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:23:56.652,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,CardView,2023-02-01 20:23:56.685,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardView,2023-02-01 20:23:56.685,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-01 20:23:56.685,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:23:56.787,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:23:56.787,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:23:56.835,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:23:56.836,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:23:56.837,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:23:56.983,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:23:56.983,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-02-01 20:23:57.126,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addButtonClick.mobilytics-interaction,2023-02-01 20:23:59.897,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addDeviceClick.mobilytics-interaction,2023-02-01 20:24:01.559,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.deviceDisambiguation.deviceSelected.ECHO_SMART_SPEAKERS.mobilytics-interaction,2023-02-01 20:24:04.677,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.DeviceDisambiguationView.presentation.mobilytics-interaction,2023-02-01 20:24:04.686,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.IosBluetoothAppPermissionsView.presentation.mobilytics-interaction,2023-02-01 20:24:05.307,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.TurnOnBluetoothView.presentation.mobilytics-interaction,2023-02-01 20:24:05.906,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.orangeLight.continue.mobilytics-interaction,2023-02-01 20:24:07.099,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.OrangeLightInstructionsEchoDefaultView.presentation.mobilytics-interaction,2023-02-01 20:24:07.105,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectDevice.deviceSelected.mobilytics-interaction,2023-02-01 20:24:08.775,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectDeviceView.presentation.mobilytics-interaction,2023-02-01 20:24:08.786,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.selectWifiNetwork.savedNetwork.mobilytics-interaction,2023-02-01 20:24:23.23,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SelectWifiNetworkView.presentation.mobilytics-interaction,2023-02-01 20:24:23.282,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.WifiPreparingYourEchoView.presentation.mobilytics-interaction,2023-02-01 20:24:33.689,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.FfsSetupCompleteSuccessView.presentation.mobilytics-interaction,2023-02-01 20:24:35.571,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PostSetupConfigurationIngressView.presentation.mobilytics-interaction,2023-02-01 20:24:35.877,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.LocalePickerView.presentation.mobilytics-interaction,2023-02-01 20:24:38.537,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.localePicker.continue.mobilytics-interaction,2023-02-01 20:24:38.543,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.localePicker.language=function toString() { [native code] }.mobilytics-interaction,2023-02-01 20:24:38.543,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.chooseDeviceSpace.selected.mobilytics-interaction,2023-02-01 20:24:42.279,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.ChooseDeviceSpaceView.presentation.mobilytics-interaction,2023-02-01 20:24:42.284,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.ProfileCheckerView.presentation.mobilytics-interaction,2023-02-01 20:24:42.333,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.chooseLocation.skip.mobilytics-interaction,2023-02-01 20:24:47.611,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.ChooseLocationView.presentation.mobilytics-interaction,2023-02-01 20:24:51.869,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.addLocation.continue.mobilytics-interaction,2023-02-01 20:25:03.054,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.AddLocationView.presentation.mobilytics-interaction,2023-02-01 20:25:03.598,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.nameLocation.continue.mobilytics-interaction,2023-02-01 20:25:17.313,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.NameLocationView.presentation.mobilytics-interaction,2023-02-01 20:25:21.803,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SidewalkPreloadingView.presentation.mobilytics-interaction,2023-02-01 20:25:21.882,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.sidewalkFeature.disable.mobilytics-interaction,2023-02-01 20:25:37.641,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SidewalkFeatureView.presentation.mobilytics-interaction,2023-02-01 20:25:37.973,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.PostOobeFtueView.presentation.mobilytics-interaction,2023-02-01 20:25:38.404,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.frvLink.skipVideo.mobilytics-interaction,2023-02-01 20:25:40.507,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.FRVLinkView.presentation.mobilytics-interaction,2023-02-01 20:25:40.515,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.setupComplete.setupComplete.mobilytics-interaction,2023-02-01 20:25:40.596,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.setupComplete.homeButtonTapped.mobilytics-interaction,2023-02-01 20:25:42.061,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.SetupCompleteView.presentation.mobilytics-interaction,2023-02-01 20:25:42.585,iOS,Apple,"iPhone14,2",Alexa App Devices OOBE / Device Setup
+A1IWF85Y76DUZP,react.lmnt.device-oobe/state.alexa-oobe.CancelAndBackToIngressView.presentation.mobilytics-interaction,2023-02-01 20:25:42.671,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Elements
+A1IWF85Y76DUZP,Enter,2023-02-01 20:25:43.259,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:25:44.838,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,Exit,2023-02-01 20:25:44.887,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:25:44.943,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:25:44.943,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:25:44.943,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:25:44.963,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:25:44.964,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:25:44.965,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:25:45.151,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_LIGHT.mobilytics-interaction,2023-02-01 20:26:00.764,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.categoryTileClick_LIGHT.mobilytics-interaction,2023-02-01 20:26:00.764,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceCardClick.mobilytics-interaction,2023-02-01 20:26:04.146,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:26:04.146,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:26:04.263,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:26:04.41,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:26:04.41,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:26:04.54,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-02-01 20:26:05.739,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-02-01 20:26:05.739,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.tryAgainClick.mobilytics-interaction,2023-02-01 20:27:01.653,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,NOTIFICATION_BANNER_DISPLAY,2023-02-01 20:27:33.822,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:27:50.187,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:27:50.187,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:27:50.188,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:27:50.212,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:27:50.213,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:27:50.215,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:27:50.216,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:27:50.392,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,NOTIFICATION_RECEIVED,2023-02-01 20:28:31.335,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,Enter,2023-02-01 20:28:31.439,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:28:32.192,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:28:32.192,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:28:33.084,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:28:33.084,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-01 20:28:33.085,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.pillClick.mobilytics-interaction,2023-02-01 20:28:34.89,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,Enter,2023-02-01 20:28:39.773,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:28:40.605,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:28:40.605,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-01 20:28:40.606,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryInGroupControlClick.mobilytics-interaction,2023-02-01 20:28:46.533,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,Enter,2023-02-01 20:28:50.314,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:28:51.04,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:28:51.04,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:28:51.759,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:28:51.759,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,Exit,2023-02-01 20:28:51.76,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.pillClick.mobilytics-interaction,2023-02-01 20:28:53.63,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,Enter,2023-02-01 20:29:38.036,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:29:38.738,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:29:38.738,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:29:40.064,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:29:40.064,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-01 20:29:40.065,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceCardClick.mobilytics-interaction,2023-02-01 20:29:42.921,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:29:42.926,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:29:43.012,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:29:43.184,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:29:43.184,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:29:43.386,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-02-01 20:29:44.995,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-02-01 20:29:44.995,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:30:00.434,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:30:00.434,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:30:00.46,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:30:00.573,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,Enter,2023-02-01 20:30:59.696,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:31:00.323,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-01 20:31:00.323,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:31:06.153,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-01 20:31:06.153,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-01 20:31:06.154,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,CardView,2023-02-01 20:31:06.154,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardView,2023-02-01 20:31:06.154,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:31:08.907,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:31:09.014,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:31:09.014,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:31:09.037,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:31:09.038,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:31:09.039,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:31:09.182,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:31:09.182,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.favorites.load.loadFavorites.mobilytics-interaction,2023-02-01 20:31:09.327,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addButtonClick.mobilytics-interaction,2023-02-01 20:31:10.178,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addDeviceClick.mobilytics-interaction,2023-02-01 20:31:12.142,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.tryAgainClick.mobilytics-interaction,2023-02-01 20:32:11.836,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dontHaveBarcodeClick.mobilytics-interaction,2023-02-01 20:32:24.69,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.cancelClick.mobilytics-interaction,2023-02-01 20:32:42.64,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:32:44.446,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:32:44.446,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:32:44.446,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:32:44.466,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_SMARTPLUG.mobilytics-interaction,2023-02-01 20:32:44.483,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:32:44.484,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:32:44.749,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addButtonClick.mobilytics-interaction,2023-02-01 20:32:46.627,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.addDeviceClick.mobilytics-interaction,2023-02-01 20:32:48.924,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.dontHaveBarcodeClick.mobilytics-interaction,2023-02-01 20:32:57.545,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,NOTIFICATION_BANNER_DISPLAY,2023-02-01 20:33:43.629,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:33:56.19,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:33:56.19,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:33:56.19,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:33:56.213,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:33:56.213,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:33:56.216,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:33:56.218,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:33:56.461,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.slimBannerTapThrough.mobilytics-interaction,2023-02-01 20:34:00.642,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deviceImageListItemClick.mobilytics-interaction,2023-02-01 20:34:04.544,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:34:04.545,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:34:04.626,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:04.992,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:04.992,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:34:05.121,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-02-01 20:34:07.806,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-02-01 20:34:07.806,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:14.887,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:34:14.887,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:34:14.913,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:15.036,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deviceImageListItemClick.mobilytics-interaction,2023-02-01 20:34:28.102,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:34:28.102,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:34:28.167,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:34:28.191,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:28.348,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:28.348,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-02-01 20:34:30.004,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-02-01 20:34:30.004,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:32.202,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:34:32.202,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:34:32.23,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:32.348,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:34:34.956,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.deviceImageListItemClick.mobilytics-interaction,2023-02-01 20:34:34.956,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:34:35.04,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:34:35.061,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:35.184,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:35.185,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:37.215,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:34:37.216,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:37.216,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:34:37.221,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:34:37.221,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:34:37.238,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:34:37.239,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:37.474,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_ECHO.mobilytics-interaction,2023-02-01 20:34:38.007,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:34:38.766,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:34:38.766,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:34:38.766,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:38.766,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:34:38.785,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:34:38.786,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:38.982,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:34:39.638,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:34:39.638,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.pillClick.mobilytics-interaction,2023-02-01 20:34:41.177,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.pillClick.mobilytics-interaction,2023-02-01 20:34:42.447,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceCardClick.mobilytics-interaction,2023-02-01 20:34:45.151,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:34:45.152,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:45.247,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:34:45.248,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:34:45.248,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:34:45.268,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:34:45.383,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:35:00.086,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:00.086,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:35:00.087,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:35:00.087,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:35:00.109,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:35:00.111,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:00.262,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_LIGHT.mobilytics-interaction,2023-02-01 20:35:00.654,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.categoryTileClick_LIGHT.mobilytics-interaction,2023-02-01 20:35:00.654,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceCardClick.mobilytics-interaction,2023-02-01 20:35:02.287,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:35:02.291,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:35:02.383,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:02.383,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:35:02.401,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:02.518,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-02-01 20:35:03.201,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-02-01 20:35:03.201,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,MENU_SETTINGS,2023-02-01 20:35:13.435,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:13.533,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:35:13.533,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:35:13.533,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:35:13.533,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:35:13.553,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:35:13.554,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:13.712,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:35:14.409,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:35:14.409,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:15.865,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:35:15.866,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:35:15.866,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:15.866,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:35:15.866,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:35:15.901,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:35:15.902,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:16.046,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:35:16.573,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:35:16.573,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceCardClick.mobilytics-interaction,2023-02-01 20:35:17.42,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:35:17.426,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:17.51,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:17.516,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:35:17.516,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:35:17.534,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:17.649,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-02-01 20:35:18.65,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-02-01 20:35:18.65,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:21.079,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:35:21.079,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:35:21.106,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:21.215,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:28.72,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpaceCard.mobilytics-interaction,2023-02-01 20:35:28.72,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.devices-channel.nullSpeakerCard.mobilytics-interaction,2023-02-01 20:35:28.72,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.AlexaMobileHomeSetupHunchesPublisher.load.mobilytics-interaction,2023-02-01 20:35:28.72,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_THERMOSTAT.mobilytics-interaction,2023-02-01 20:35:28.74,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.upsellCategoryTileView_CAMERA.mobilytics-interaction,2023-02-01 20:35:28.741,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:28.92,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.devices-channel.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:35:29.743,iOS,Apple,"iPhone14,2",Alexa Mobile Device
+A1IWF85Y76DUZP,react.lmnt.smart-home.categoryTileClick_SMARTPLUG.mobilytics-interaction,2023-02-01 20:35:29.743,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceCardClick.mobilytics-interaction,2023-02-01 20:35:30.388,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.devices-channel.applianceIngress.mobilytics-interaction,2023-02-01 20:35:30.393,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:30.484,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlPageView.mobilytics-interaction,2023-02-01 20:35:30.485,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.load.mobilytics-interaction,2023-02-01 20:35:30.485,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.dynamicControlLinks_CreateARoutine_createARoutine.mobilytics-interaction,2023-02-01 20:35:30.504,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.recommendations.HunchesContentPublisher.impression.mobilytics-interaction,2023-02-01 20:35:30.626,iOS,Apple,"iPhone14,2",Alexa Smart Home Mobile App Control
+A1IWF85Y76DUZP,react.lmnt.smart-home.announcementSettingSectionView.mobilytics-interaction,2023-02-01 20:35:31.282,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,react.lmnt.smart-home.remoteButtonsAndSwitchesDeviceSettingPage_pageLandOnCount.mobilytics-interaction,2023-02-01 20:35:31.282,iOS,Apple,"iPhone14,2",Alexa Smart Home Networking
+A1IWF85Y76DUZP,NOTIFICATION_RECEIVED,2023-02-18 21:16:28.737,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core
+A1IWF85Y76DUZP,view,2023-02-18 21:16:28.737,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,Enter,2023-02-18 21:16:28.896,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-18 21:16:29.801,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,alexa-growth-app-only-flag,2023-02-18 21:16:29.801,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,react.lmnt.smart-home.whatsOn.SmartHomeUtilityPublisher.load.mobilytics-interaction,2023-02-18 21:16:29.972,iOS,Apple,"iPhone14,2",Alexa Mobile Event
+A1IWF85Y76DUZP,CardClick,2023-02-18 21:16:31.926,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardClick,2023-02-18 21:16:31.926,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,CardView,2023-02-18 21:16:31.927,iOS,Apple,"iPhone14,2",Alexa Mobile P13N
+A1IWF85Y76DUZP,CardView,2023-02-18 21:16:31.927,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,Exit,2023-02-18 21:16:31.927,iOS,Apple,"iPhone14,2",Alexa MXBR Frontend
+A1IWF85Y76DUZP,react.lmnt.home.home_default_page_view.mobilytics-interaction,2023-04-13 00:18:26.574,iOS,apple,iPad Mini,Alexa Mobile P13N
+A1IWF85Y76DUZP,react.lmnt.home.home_pageview.mobilytics-interaction,2023-04-13 00:18:26.611,iOS,apple,iPad Mini,Alexa Mobile P13N
+A1IWF85Y76DUZP,NOTIFICATION_RECEIVED,2023-04-13 19:01:29.792,iOS,Apple,"iPhone14,2",Alexa Mobile Org Platform Core

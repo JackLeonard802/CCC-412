@@ -1,0 +1,1 @@
+timestamp,call_duration_(ms),actual_call_duration,mobile_manufacturer,mobile_device_model,mobile_screen_size,drop_in_status,alexa_2_alexa_call,country,locale,local_time,rating_if_customer_provided,direction_of_the_call,emergency_call,blocked_action,blocked_type,message_type,dsn,call_type,call_provider,contact_address_type,drop_in_status 
